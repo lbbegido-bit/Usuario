@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/web/cadastros/estado/estadoNovo.jsp</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/web/cadastros/estado/estadoAlterar.jsp</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/src/java/br/com/aplcurso/controller/estado/EstadoCadastrar.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/src/java/br/com/aplcurso/controller/usuario/UsuarioVerificarCpf.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/web/header.jsp</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/src/java/br/com/aplcurso/utils/SingleConnection.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/src/java/br/com/aplcurso/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/src/java/br/com/aplcurso/controller/estado/EstadoNovo.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/src/java/br/com/aplcurso/controller/usuario/UsuarioCarregar.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/src/java/br/com/aplcurso/controller/usuario/UsuarioListar.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/web/cadastros/usuario/usuario.jsp</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/src/java/br/com/aplcurso/controller/estado/EstadoExcluir.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/src/java/br/com/aplcurso/controller/usuario/UsuarioExcluir.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/src/java/br/com/aplcurso/model/Estado.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/src/java/br/com/aplcurso/dao/EstadoDAO.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/web/footer.jsp</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/web/menu.jsp</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/src/java/br/com/aplcurso/controller/estado/EstadoVerificarSigla.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/web/cadastros/estado/estado.jsp</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/src/java/br/com/aplcurso/controller/estado/EstadoListar.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/web/cadastros/usuario/usuarioAtualizar.jsp</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/src/java/br/com/aplcurso/model/Usuario.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/web/cadastros/usuario/usuarioCadastrar.jsp</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/src/java/br/com/aplcurso/controller/usuario/UsuarioCadastrar.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/src/java/br/com/aplcurso/controller/usuario/UsuarioNovo.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive/Documentos/NetBeansProjects/WebAula1/src/java/br/com/aplcurso/controller/estado/EstadoCarregar.java</file>
+        </group>
+    </open-files>
+</project-private>
